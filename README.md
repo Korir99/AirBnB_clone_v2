@@ -1,5 +1,5 @@
 # AIRBNB CLONE V2 PROJECT
-This is a team project by:
+This is a project by:
 <ul>
 	<li> <a href="github.com/Korir99">Korir Maureen</a></li>
 ## originak authors:
